@@ -4,6 +4,6 @@ For this project, we leverage the theory and the dataset provided by Alharthi et
 
 To address the complexities of need classification, we employ a two-stage approach:
 
-Prompt Engineering with Google’s LLMs: Using Google’s language models for few-shot and zero-shot learning to experiment with need classification.
+1) Prompt Engineering with Google’s LLMs: Using Google’s language models for few-shot and zero-shot learning to experiment with need classification.
 
-Neural Network Training with Embeddings: Utilizing Google’s text-embedding-004 API to generate embeddings, which are then used to train a neural network to improve need classification.
+2) Neural Network Training with Embeddings: Utilizing Google’s text-embedding-004 API to generate embeddings, which are then used to train a neural network to improve need classification.
